@@ -1,0 +1,38 @@
+{
+  "2026-11-06": {
+    "cash": 0,
+    "upi": 10.0,
+    "card": 0,
+    "due": 0,
+    "total": 10.0,
+    "transactions": [
+      {
+        "bill_no": "06112645",
+        "time": "03:25 PM",
+        "customer": "Walk-in",
+        "amount": 10.0,
+        "payment": "UPI(\u20b95)+UPI(\u20b95)",
+        "items": 1
+      }
+    ],
+    "bill_count": 1
+  },
+  "2026-11-07": {
+    "cash": 0,
+    "upi": 25.0,
+    "card": 25.0,
+    "due": 0,
+    "total": 50.0,
+    "transactions": [
+      {
+        "bill_no": "07112604",
+        "time": "06:54 PM",
+        "customer": "Asif",
+        "amount": 50.0,
+        "payment": "CARD(\u20b925)+UPI(\u20b925)",
+        "items": 1
+      }
+    ],
+    "bill_count": 1
+  }
+}
